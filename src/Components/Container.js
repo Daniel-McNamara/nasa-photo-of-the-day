@@ -8,7 +8,7 @@ const Wrapper = styled.div`
     box-sizing: border-box;
     padding: 0 5%;
     width: 100%;
-    background: dimgray;
+    background: teal;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
